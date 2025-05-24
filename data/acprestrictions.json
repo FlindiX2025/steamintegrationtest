@@ -1,0 +1,10 @@
+{
+    "steam": {
+        "settings": {
+            "steam_settings": "steam_settings"
+        },
+        "view": {
+            "steam_view": "steam_view"
+        }
+    }
+}

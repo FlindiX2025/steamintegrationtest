@@ -1,0 +1,12 @@
+[
+  {
+    "class": "\\IPS\\steam\\Login\\_Steam",
+    "default_enable": true,
+    "acp": true,
+    "front": true,
+    "order": 1,
+    "key": "steam",
+    "title": "Steam",
+    "settings": []
+  }
+]

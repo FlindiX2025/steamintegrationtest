@@ -1,0 +1,18 @@
+{
+    "steamHover": {
+        "type": "S",
+        "class": "\\IPS\\Theme\\class_core_front_profile"
+    },
+    "steamDefault": {
+        "type": "C",
+        "class": "\\IPS\\core\\modules\\front\\members\\profile"
+    },
+    "steamid": {
+        "type": "C",
+        "class": "\\IPS\\CustomField"
+    },
+    "topic": {
+        "type": "S",
+        "class": "\\IPS\\Theme\\class_forums_front_topics"
+    }
+}
